@@ -1,0 +1,40 @@
+_repo: Dynamic-Thought--Or-The-Law-of-Vibrant-Energy_41892
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41892-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Atkinson, William Walker
+    aliases:
+    - Panchadasi, Swami
+    - Vishita, Bhakta
+    - Ramacharaka, Yogi
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '4862'
+    url: http://www.gutenberg.org/2009/agents/4862
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Walker_Atkinson
+    - http://www.gutenberg.org/browse/authors/t#a5407
+    - http://www.gutenberg.org/browse/authors/d#a662
+description: A key figure in the New Thought movement that gained prominence in the
+  late-nineteenth and early-twentieth centuries, William Walker Atkinson is credited
+  with developing the concept of the Law of Attraction that has experienced a resurgence
+  in popularity in recent years. In the volume Dynamic Thought, Atkinson undertakes
+  the ambitious project of combining ancient occult beliefs with principles of modern
+  science. The result will appeal to readers who are interested in maximizing the...
+gutenberg_issued: '2013-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41892'
+  lccn: '06013413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Thought'
+- !lcc 'BF'
+title: Dynamic Thought; Or, The Law of Vibrant Energy
+url: http://www.gutenberg.org/ebooks/41892
